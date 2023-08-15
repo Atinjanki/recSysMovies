@@ -1,2 +1,2 @@
 # recSysMovies
-Recommender System for Movies
+Content-Based Recommender System for Movies
